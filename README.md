@@ -1,25 +1,26 @@
-# 🌐 Frontend Development Progress — Pranjal Pandey
+# 🌐 Frontend Development Progress Journal — *Pranjal Pandey*
 
-This repository contains my daily learning progress, assignments, and practice work from the **Frontend Development** module guided by **Mr. Deepak Prasad** and **Mr. Sahil Kumar**.
+This repository documents my learning journey through the Frontend Development module, guided by **Mr. Deepak Prasad** and **Mr. Sahil Kumar**.  
+It includes daily progress logs, assignments, experiments, and practice work.
 
-Each topic is organized in separate **Git branches**, providing clear versioning and structured development.
+Every concept is organized in separate branches to maintain clarity and versioned development.
 
 ---
 
-## 🧭 Course Roadmap
+## 🚀 Course Roadmap
 
 | Phase | Topic | Focus |
-|------|-------|--------|
-| 🌍 | Introduction to Web Development | 3-Tier Architecture, Localhost, Web Flow |
-| 🧱 | HTML Basics | Tags, Elements, Structure |
-| 🧩 | Block & Inline Elements | Layout and Display Roles |
-| 🪟 | HTML Iframes | Embedding External Content |
-| 🎨 | CSS Basics | Selectors, Colors, Backgrounds |
-| 🧭 | Flexbox & Grid | Modern Layout Techniques |
-| 📦 | CSS Box Model | Margins, Padding, Borders |
-| ✨ | Pseudo-classes & Animations | Hover, Active, Transitions, Keyframes |
-| 📱 | Responsive CSS | Media Queries, Mobile-first Design |
-| 💎 | BootStrap | Prebuilt Components, Responsive Utility Classes |
+|------|--------|-------|
+| 🌍 | Introduction to Web Development | Web Architecture, 3-Tier Structure, Localhost & Ports |
+| 🧱 | HTML Fundamentals | Tags, Elements, Structure, Tables, Media |
+| 🧩 | Block & Inline Elements | Content Behavior & Layout Flow |
+| 🪟 | HTML Iframes | Embedding YouTube, Maps & External Webpages |
+| 🎨 | CSS Basics | Selectors, Colors, Backgrounds, Fonts |
+| 📦 | CSS Box Model | Margin, Padding, Border, Content |
+| 🧭 | Flexbox & Grid | Modern Layout Alignment Systems |
+| ✨ | Pseudo-classes & Animations | Hover Effects, Transitions, Keyframes |
+| 📱 | Responsive CSS | Media Queries, Breakpoints, Mobile-first Design |
+| 💎 | Bootstrap | Utility Classes, Grid System, Components |
 
 ---
 
@@ -28,57 +29,56 @@ Each topic is organized in separate **Git branches**, providing clear versioning
 | Branch Name | Description |
 |------------|-------------|
 | `main` | Overview & Documentation |
-| `intro-to-web-dev` | Introduction concepts, localhost, ports, browser flow |
-| `html` | HTML Fundamentals |
-| `html-block-inline` | Block vs Inline Usage Examples |
-| `html-iframes` | Embedding YouTube, Maps, Websites |
-| `css-basics` | Selectors, Colors, Backgrounds |
-| `flexbox` | Flex Layouts (Containers & Items) |
-| `css-box-model` | Spacing, Borders, Gradients |
-| `css-animations` | Pseudo-classes, Transitions, Keyframes |
-| `responsive-css` | Fluid layouts, media queries |
-| `bootstrap` | Components, Grid, Layout Utilities *(added on Nov 6)* |
+| `intro-to-web-dev` | Basics of web architecture and browser flow |
+| `html` | Core HTML fundamentals |
+| `html-block-inline` | Inline vs Block layout demonstrations |
+| `html-iframes` | Embedding external content |
+| `css-basics` | Selectors, colors, backgrounds |
+| `flexbox` | Flex container & item alignment practice |
+| `css-box-model` | Gradients, spacing, visual structure |
+| `css-animations` | Transition & keyframe animations |
+| `responsive-css` | Media queries & responsive design |
+| `bootstrap` | Bootstrap grid and component-based layouts |
 
 ---
 
-## 📝 Assignments
+## 📝 Daily Learning Journal
 
-| Date | Topic | Task |
-|------|-------|------|
-| **Oct 9** | HTML Basics | Created timetable using `<table>` |
-| **Oct 10** | Block & Inline Elements | Layout demonstration webpage |
-| **Oct 10** | HTML Iframes | Embedded YouTube video + Map location |
-| **Oct 13** | CSS Basics | Webpage with margins, padding & positioning |
-| **Oct 16** | Flexbox & Grid | Built responsive calculator UI |
-| **Oct 30** | Box Model | Calculator layout using Gradients |
-| **Oct 31** | Pseudo-classes & Animations | Tooltip + Diagonal animation |
-| **Nov 3** | Responsive CSS | Mobile-first responsive website |
-| **Nov 6** | **Bootstrap** | Practiced Grid System, Navbar, Cards, Buttons |
-
----
-
-## 📅 Daily Learning Timeline
-
-| Date | Summary |
-|------|---------|
-| **Oct 9** | Introduction to Web Architecture & HTML |
-| **Oct 10** | Block & Inline Layout Structures |
-| **Oct 13** | CSS Styling and Basic Selectors |
-| **Oct 16** | Flexbox & Grid for Layout Alignment |
-| **Oct 30** | Box Model & Gradient Visual Styling |
-| **Oct 31** | Hover Effects, Transitions, Animations |
-| **Nov 3** | Responsive Web Design (Media Queries) |
-| **Nov 6** | **Bootstrap Components, Grid System, Navbar Customization** |
+| Day | Date | Topic | Summary |
+|----|------|--------|---------|
+| **Day 1** | 09/10/2025 | Introduction to Web Development | Set up VS Code, learned HTML basics, created timetable using `<table>` |
+| **Day 2** | 10/10/2025 | Advanced HTML Elements & Forms | Worked with attributes, inline vs block, built HTML form |
+| **Day 3** | 13/10/2025 | CSS Basics | Selectors, colors, box model, designed simple styled webpage |
+| **Day 4** | 30/10/2025 | Flexbox & Grid | Learned layout systems, designed calculator UI layout |
+| **Day 5** | 31/10/2025 | Animations & Transitions | Added hover, transitions, diagonal movement animation |
+| **Day 6** | 03/11/2025 | Responsive CSS | Built responsive card UI using media queries |
+| **Day 7** | 05/11/2025 | Bootstrap Basics | Worked with grid & utility classes, created portfolio page |
+| **Day 8** | 06/11/2025 | Bootstrap Components | Used Cards, Carousel, Progress bars, built a landing page |
 
 ---
 
-## 🛠️ Tools Used
+## 📚 Assignments Log
 
-- **VS Code** + Live Server
-- **HTML5 / CSS3**
-- **Git & GitHub**
-- **Flexbox & Grid**
-- **Bootstrap 5**
+| Date | Topic | Task Completed |
+|------|--------|----------------|
+| Oct 9 | HTML Basics | Created a timetable using `<table>` |
+| Oct 10 | Forms & Layout | Built structured HTML form |
+| Oct 13 | CSS Styling | Designed webpage using internal & external CSS |
+| Oct 16 | Flexbox/Grid | Built a responsive calculator layout |
+| Oct 30 | Box Model | Applied gradients and improved UI layout |
+| Oct 31 | Animations | Movement animation using transitions |
+| Nov 3 | Responsive Design | Built mobile-first web layout |
+| Nov 6 | Bootstrap | Landing page + component usage |
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Visual Studio Code + Live Server  
+- HTML5 / CSS3  
+- Git & GitHub (Branch-based workflow)  
+- Flexbox & Grid  
+- Bootstrap 5  
 
 ---
 
@@ -88,6 +88,5 @@ Each topic is organized in separate **Git branches**, providing clear versioning
 **Course:** Frontend Development (HTML + CSS + Bootstrap)  
 **University:** GLA University, Mathura  
 
-> Learning one day at a time. Consistency > Intensity.
+> *Building consistency. One page, one layout, one concept at a time.*
 
----
